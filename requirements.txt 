@@ -1,0 +1,12 @@
+pandas
+requests
+PyMuPDF
+gradio
+chromadb
+sentence-transformers
+langchain
+python-dotenv
+langchain-google-genai
+langchain-chroma
+matplotlib
+numpy
